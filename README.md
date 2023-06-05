@@ -32,7 +32,7 @@ You only need a Console you have this project :
 - Clone the repo
 - Open the solution: MFC-CPlusPlus-StarterKit\MFCStarterKit/MFCStarterKit.sln 
 - Verify compilation and generation
-- Before you run execute: MFC-CPlusPlus-StarterKit\TraceReporter
+- Before you run, execute: MFC-CPlusPlus-StarterKit\TraceReporter to see traces
 
 You can obtain this:
 
