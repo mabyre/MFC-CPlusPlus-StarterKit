@@ -1,20 +1,19 @@
 # MFC C++ Starter Kit #
 
-For developers vho want to totaly masterise thier developments in C++.
+For developers vho want to totally masterise thier developments in C++.
 
-PM mean Protocol or Protable Machinery.
+PM means Protable Machinery some C codes to 
 
 # Features #
 
 - Masterise your code for multi-plateform devlopment in C++
-- MFC Application under tests
+- MFC Application under tests that send TRACE to Reporter
 - Powerfull functions for memory management
  
 # Requirements #
 
-Fully portable core software in C language so you can pickup some C sources to another plateform.
-
-Any IDE that can make a reference to a library. Here it's Visual Studio Community
+- Visual Studio Community
+- MFC
 
 ## Want to know more
 
@@ -22,14 +21,28 @@ There is a long time a wanted to bring this project to the light. A wanted to ma
 
 [Trace Reporter](https://trace-reporter.sodevlog.com/ "Based on TraceReporter")
 
-## For little story ##
+## Only Console Needed ##
 
-Successfully rebuilding project for **Visual Studio Community 2019**
+You only need a Console you have this project :
 
-\Mabyre\Visual Studio\CPlusPlus\ConsoleCPlusPlusStarterKit\PMLiteC\PMLitec\Wrk6\PMLiteC
+* [Console-CPlusPlus-StarterKit](https://github.com/mabyre/Console-CPlusPlus-StarterKit)
 
-exhumation of a very old project **Protocol Machinery Lite** from :
+## Getting Started ##
 
-\Oracle Virtual Box\Windows 7 Ineo 000\Partage\Visual C++ 6.0\Console
-from a very old computer :
-\\Mabyre\SouthOfFrance\Visual C++ 6.0
+- Clone the repo
+- Open the solution: MFC-CPlusPlus-StarterKit\MFCStarterKit/MFCStarterKit.sln 
+- Verify compilation and generation
+- Before you run execute: MFC-CPlusPlus-StarterKit\TraceReporter
+
+You can obtain this:
+
+<img style="margin: 10px" src="Images/2023-06-05_16h36_29.png" alt="MFC-Starter-Kit" />
+
+1. You run the Reporter application
+2. You run your MFC under test application
+3. You click the button to send Traces to the Reporter
+
+If you need sources from the Reporter.EXE or the ASTrace.DLL go for it you will find it here.
+
+
+
