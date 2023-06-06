@@ -44,5 +44,9 @@ You can obtain this:
 
 If you need sources from the Reporter.EXE or the ASTrace.DLL go for it you will find it here.
 
+***Or***
+
+Do not hesitate to ask, it's nice to have a message from a motivate developer.
+
 
 
