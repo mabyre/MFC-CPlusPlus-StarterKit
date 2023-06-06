@@ -2,7 +2,7 @@
 
 For developers vho want to totally masterise thier developments in C++.
 
-PM means Protable Machinery some C codes to 
+PM means Protable Machinery, some C source codes to masterise your environment.
 
 # Features #
 
