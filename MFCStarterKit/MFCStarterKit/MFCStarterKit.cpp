@@ -1,8 +1,13 @@
 //
 // MFCStarterKit.cpp : définit les comportements de classe de l'application.
 // 
-// verify issue:
+// Verify issue:
 // https://github.com/fork-dev/TrackerWin/issues/1931
+// 
+// But I'will use VS with command: 
+// File->Save xxx.cpp as->In DialogBox Save click option->Save with encodage ANSI
+// 
+// Remarque: There is a wonderful tool BeyongCompare wich gave you the file is open encodage
 //
 
 #include "stdafx.h"
